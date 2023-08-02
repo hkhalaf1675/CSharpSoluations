@@ -1,0 +1,15 @@
+F:\Education\C sharp\Assuit_MInya_Contes10\bin\Debug\net7.0\Assuit_MInya_Contes10.exe
+F:\Education\C sharp\Assuit_MInya_Contes10\bin\Debug\net7.0\Assuit_MInya_Contes10.deps.json
+F:\Education\C sharp\Assuit_MInya_Contes10\bin\Debug\net7.0\Assuit_MInya_Contes10.runtimeconfig.json
+F:\Education\C sharp\Assuit_MInya_Contes10\bin\Debug\net7.0\Assuit_MInya_Contes10.dll
+F:\Education\C sharp\Assuit_MInya_Contes10\bin\Debug\net7.0\Assuit_MInya_Contes10.pdb
+F:\Education\C sharp\Assuit_MInya_Contes10\obj\Debug\net7.0\Assuit_MInya_Contes10.csproj.AssemblyReference.cache
+F:\Education\C sharp\Assuit_MInya_Contes10\obj\Debug\net7.0\Assuit_MInya_Contes10.GeneratedMSBuildEditorConfig.editorconfig
+F:\Education\C sharp\Assuit_MInya_Contes10\obj\Debug\net7.0\Assuit_MInya_Contes10.AssemblyInfoInputs.cache
+F:\Education\C sharp\Assuit_MInya_Contes10\obj\Debug\net7.0\Assuit_MInya_Contes10.AssemblyInfo.cs
+F:\Education\C sharp\Assuit_MInya_Contes10\obj\Debug\net7.0\Assuit_MInya_Contes10.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\Assuit_MInya_Contes10\obj\Debug\net7.0\Assuit_MInya_Contes10.dll
+F:\Education\C sharp\Assuit_MInya_Contes10\obj\Debug\net7.0\refint\Assuit_MInya_Contes10.dll
+F:\Education\C sharp\Assuit_MInya_Contes10\obj\Debug\net7.0\Assuit_MInya_Contes10.pdb
+F:\Education\C sharp\Assuit_MInya_Contes10\obj\Debug\net7.0\Assuit_MInya_Contes10.genruntimeconfig.cache
+F:\Education\C sharp\Assuit_MInya_Contes10\obj\Debug\net7.0\ref\Assuit_MInya_Contes10.dll

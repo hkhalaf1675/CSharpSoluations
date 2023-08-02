@@ -1,0 +1,15 @@
+F:\Education\C sharp\Assuit_Minya_Contest9\bin\Debug\net7.0\Assuit_Minya_Contest9.exe
+F:\Education\C sharp\Assuit_Minya_Contest9\bin\Debug\net7.0\Assuit_Minya_Contest9.deps.json
+F:\Education\C sharp\Assuit_Minya_Contest9\bin\Debug\net7.0\Assuit_Minya_Contest9.runtimeconfig.json
+F:\Education\C sharp\Assuit_Minya_Contest9\bin\Debug\net7.0\Assuit_Minya_Contest9.dll
+F:\Education\C sharp\Assuit_Minya_Contest9\bin\Debug\net7.0\Assuit_Minya_Contest9.pdb
+F:\Education\C sharp\Assuit_Minya_Contest9\obj\Debug\net7.0\Assuit_Minya_Contest9.csproj.AssemblyReference.cache
+F:\Education\C sharp\Assuit_Minya_Contest9\obj\Debug\net7.0\Assuit_Minya_Contest9.GeneratedMSBuildEditorConfig.editorconfig
+F:\Education\C sharp\Assuit_Minya_Contest9\obj\Debug\net7.0\Assuit_Minya_Contest9.AssemblyInfoInputs.cache
+F:\Education\C sharp\Assuit_Minya_Contest9\obj\Debug\net7.0\Assuit_Minya_Contest9.AssemblyInfo.cs
+F:\Education\C sharp\Assuit_Minya_Contest9\obj\Debug\net7.0\Assuit_Minya_Contest9.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\Assuit_Minya_Contest9\obj\Debug\net7.0\Assuit_Minya_Contest9.dll
+F:\Education\C sharp\Assuit_Minya_Contest9\obj\Debug\net7.0\refint\Assuit_Minya_Contest9.dll
+F:\Education\C sharp\Assuit_Minya_Contest9\obj\Debug\net7.0\Assuit_Minya_Contest9.pdb
+F:\Education\C sharp\Assuit_Minya_Contest9\obj\Debug\net7.0\Assuit_Minya_Contest9.genruntimeconfig.cache
+F:\Education\C sharp\Assuit_Minya_Contest9\obj\Debug\net7.0\ref\Assuit_Minya_Contest9.dll
