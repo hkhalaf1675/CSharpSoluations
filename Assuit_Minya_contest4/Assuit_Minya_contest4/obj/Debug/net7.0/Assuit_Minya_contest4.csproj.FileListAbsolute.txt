@@ -1,0 +1,15 @@
+E:\Education\C sharp\Assuit_Minya_contest4\Assuit_Minya_contest4\bin\Debug\net7.0\Assuit_Minya_contest4.exe
+E:\Education\C sharp\Assuit_Minya_contest4\Assuit_Minya_contest4\bin\Debug\net7.0\Assuit_Minya_contest4.deps.json
+E:\Education\C sharp\Assuit_Minya_contest4\Assuit_Minya_contest4\bin\Debug\net7.0\Assuit_Minya_contest4.runtimeconfig.json
+E:\Education\C sharp\Assuit_Minya_contest4\Assuit_Minya_contest4\bin\Debug\net7.0\Assuit_Minya_contest4.dll
+E:\Education\C sharp\Assuit_Minya_contest4\Assuit_Minya_contest4\bin\Debug\net7.0\Assuit_Minya_contest4.pdb
+E:\Education\C sharp\Assuit_Minya_contest4\Assuit_Minya_contest4\obj\Debug\net7.0\Assuit_Minya_contest4.csproj.AssemblyReference.cache
+E:\Education\C sharp\Assuit_Minya_contest4\Assuit_Minya_contest4\obj\Debug\net7.0\Assuit_Minya_contest4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Education\C sharp\Assuit_Minya_contest4\Assuit_Minya_contest4\obj\Debug\net7.0\Assuit_Minya_contest4.AssemblyInfoInputs.cache
+E:\Education\C sharp\Assuit_Minya_contest4\Assuit_Minya_contest4\obj\Debug\net7.0\Assuit_Minya_contest4.AssemblyInfo.cs
+E:\Education\C sharp\Assuit_Minya_contest4\Assuit_Minya_contest4\obj\Debug\net7.0\Assuit_Minya_contest4.csproj.CoreCompileInputs.cache
+E:\Education\C sharp\Assuit_Minya_contest4\Assuit_Minya_contest4\obj\Debug\net7.0\Assuit_Minya_contest4.dll
+E:\Education\C sharp\Assuit_Minya_contest4\Assuit_Minya_contest4\obj\Debug\net7.0\refint\Assuit_Minya_contest4.dll
+E:\Education\C sharp\Assuit_Minya_contest4\Assuit_Minya_contest4\obj\Debug\net7.0\Assuit_Minya_contest4.pdb
+E:\Education\C sharp\Assuit_Minya_contest4\Assuit_Minya_contest4\obj\Debug\net7.0\Assuit_Minya_contest4.genruntimeconfig.cache
+E:\Education\C sharp\Assuit_Minya_contest4\Assuit_Minya_contest4\obj\Debug\net7.0\ref\Assuit_Minya_contest4.dll
